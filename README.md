@@ -1,7 +1,8 @@
-#baby snake
 import time
 import random
 import tkinter as tk
+
+# Constants
 CANVAS_WIDTH = 400
 CANVAS_HEIGHT = 400
 SIZE = 40
